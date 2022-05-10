@@ -1,2 +1,2 @@
-# SoftwareStudio
+#SoftwareStudio
 Repo na potrzeby rekrutacji
