@@ -1,1 +1,6 @@
+Plik ten to taki 'brudnopis'
+
+
 Pisanie aplikacji w Vue (CRUD)
+Baza danych (preferowana) Microsoft SQL Server Express
+API (zawiera usługi zarządzania filmami - REST/wymiana danych w formie żądań HTTP - dane w formacie JSON) napisane w 
